@@ -1,4 +1,6 @@
-How to Run .java files
+# itsN1X/Lupe-Math forked from Lupecoin/Lupe-Math
+
+## How to Run `.java` files!
 
 Step 1: if you dont have it already, download the jdk (java devopment kit). 
 You can find that here: http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html 
@@ -21,5 +23,5 @@ It should say operation complete at the bottom of the screen 1-3 seconds after c
 
 Step 6: click the red running man button next to the green plus, this button will run the program. 
 
-Step 7: enjoy the opensource memes! 
-
+### Step 7: 
+Enjoy the opensource memes! 
