@@ -1,2 +1,3 @@
-# Lupe-Math
-### Read the [`starters`](srarters.md) today!
+# estab Lupe-Math
+![](Lupe.jpg)
+### Read el [`starters`](srarters.md) hoy!
